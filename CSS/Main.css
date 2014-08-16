@@ -1,0 +1,31 @@
+body{
+	background-color: black;
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+.test{
+	color: white;
+
+}
+.nav a {
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+.menu {
+  background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  left: -285px;   /*start off behind the scenes */
+  height: 100%;
+  position: fixed;
+  width: 285px;
+  }
+  .jumbotron{
+  	background-color: black;
+
+  }
+ .icon-menu i {
+  margin-right: 5px;
+}
+a:hover{
+	color: green;
+}
